@@ -5,4 +5,4 @@
   ## 👾| Tecnologias utilizadas
 
 
-  ## 🗂️| Estrutura
+  ## 🗂️| Estrutura 
