@@ -16,4 +16,4 @@
 
   ## 📧| Contato
 
-  E-mail
+  |E-mail
