@@ -4,7 +4,7 @@
 
   ## 👾| Tecnologias utilizadas
 
-     
+  
 
   ## 🗂️| Estrutura do Projeto
 
