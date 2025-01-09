@@ -12,6 +12,6 @@
   ## 📑| Licença
 
 
-  ## 👥| Contato
+  ## 👥| Contribuições
 
   ## | 
