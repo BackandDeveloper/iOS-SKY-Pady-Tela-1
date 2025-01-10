@@ -5,7 +5,7 @@
   ## 👾| Tecnologias utilizadas
 ```
    Swift
- ````
+ ```
 
   ## 🗂️| Estrutura do Projeto
 
