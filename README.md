@@ -21,7 +21,18 @@ Swift
 
   ## 🗂️| Estrutura do Projeto
 
-  
+  ### Estrutura de Pastas MVVM
+
+📂 *View*
+└ 📁 *Componentes Gerais*
+└ 📂 *Tela Inicial *(Exemplo)
+     └ 📁 Componentes Tela Inicial (exemplo)
+     └ 📝 TelaInicial.swift
+└ 📂 *OnBoarding* (Exemplo)
+     └ 📝 OnBoarding1.swift
+     └ 📝 OnBoarding2.swift
+📁 *Model*
+📁 *ViewModel*
 
   ## 📑| Licença:
 
