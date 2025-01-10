@@ -19,7 +19,7 @@ Swift
 
  ```
 
-  ## 🗂️| Estrutura do Pro
+  ## 🗂️| Estrutura do Projeto
 
   
 
