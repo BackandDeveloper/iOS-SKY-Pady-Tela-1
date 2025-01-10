@@ -24,7 +24,7 @@ Swift
 
   ### Estrutura de Pastas MVVM
 
-``
+```
 📂 *View*
 └ 📁 *Componentes Gerais*
 └ 📂 *Tela Inicial *(Exemplo)
