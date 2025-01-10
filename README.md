@@ -29,7 +29,7 @@ Swift
 
   ## 👥| Contribuições
 
-  Caso queira 
+  Caso queira contribuir
 
   ## 📧| Contato
 
