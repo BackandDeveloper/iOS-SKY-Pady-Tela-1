@@ -20,7 +20,7 @@ SwiftUI
 
   ## 🗂️| Estrutura do 
 
-  Este projeto 
+  Este pr
 
   ## 📑| Licença
 
