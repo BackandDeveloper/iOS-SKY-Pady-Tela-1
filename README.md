@@ -9,7 +9,7 @@
  Swift
 
  ```
-  SwiftU
+  SwiftUI
  ```
 
  ```
