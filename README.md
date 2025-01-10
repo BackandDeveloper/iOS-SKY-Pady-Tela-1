@@ -20,7 +20,7 @@ SwiftUI
 
   ## 🗂️| Estrutura do 
 
-  Est
+  E
 
   ## 📑| Licença
 
