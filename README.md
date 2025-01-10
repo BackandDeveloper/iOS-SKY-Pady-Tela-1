@@ -18,7 +18,7 @@ SwiftUI
 
  ```
 
-  ## 🗂️| Estrutura do Projeto
+  ## 🗂️| Estrutura do P
 
   Este projeto está sobre a
 
