@@ -50,4 +50,4 @@ Swift
 
   📩| E-mail: henrique.pedro62@aluno.ifce.edu.br
 
-  📱| Linkedin:
+  📱| Linkedin: https://www.linkedin.com/in/-dev-suporte-profissional-ti-pedro-b2680a302/
