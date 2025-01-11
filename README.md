@@ -21,7 +21,6 @@ Swift
 
   ## 🗂️| Estrutura do Projeto
 
-
   ### Estrutura de Pastas MVVM
 
 ```
