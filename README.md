@@ -19,7 +19,7 @@ Swift
 
  ```
 
-  ## 🗂️| Estrutura do Projeto
+  ## 🗂️| Estrutura 
 
   ### Estrutura de Pastas MVVM
 
