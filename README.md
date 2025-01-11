@@ -13,7 +13,7 @@ MacOS Remoto
  ```
 SwiftUI
  ```
-Linguagem de 
+Linguagem de programação
  ```
 Swift
 
