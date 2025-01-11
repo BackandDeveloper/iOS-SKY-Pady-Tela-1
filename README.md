@@ -19,7 +19,7 @@ Swift
 
  ```
 
-  ## 🗂️| Estrutura de Pastas M
+  ## 🗂️| Estrutura de Pastas MV
 
   ### Estrutura de Pastas MVVM
 
