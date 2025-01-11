@@ -9,7 +9,7 @@
 MacOS Remoto
 
  ```
- Ferramentas de 
+ Ferramentas de desenvolvimento
  ```
 SwiftUI
  ```
