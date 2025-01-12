@@ -6,7 +6,6 @@
   Sistema Operacional
   
  ```
-
 MacOS Remoto
 
  ```
