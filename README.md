@@ -21,7 +21,7 @@ Swift
 ## 📑| Compatibilidade
 
    ```
-   iOS 1
+   iOS 12
 
    ```
 
