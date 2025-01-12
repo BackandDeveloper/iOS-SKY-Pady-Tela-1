@@ -18,7 +18,7 @@ Linguagem de programação
 Swift
 
  ```
-## | Compatibilidade
+## 📑| Compatibilidade
 
    ```
 
